@@ -1,0 +1,10 @@
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\bin\Debug\Mestre.exe.config
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\bin\Debug\Mestre.exe
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\bin\Debug\Mestre.pdb
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\obj\Debug\Mestre.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\obj\Debug\Mestre.Form1.resources
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\obj\Debug\Mestre.Properties.Resources.resources
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\obj\Debug\Mestre.csproj.GenerateResource.cache
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\obj\Debug\Mestre.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\obj\Debug\Mestre.exe
+C:\Users\Paulo\Documents\Visual Studio 2017\Projetos\Mestre\Mestre\obj\Debug\Mestre.pdb
